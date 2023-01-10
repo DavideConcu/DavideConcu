@@ -1,4 +1,4 @@
-🙌 Hi! I'm Davide Concu, a Data Analyst with a love for coding.
+👋 Hi! I'm Davide Concu, a Data Analyst with a love for coding.
 💻🔥 I enjoy learning new things, and GitHub is where I share my projects and collaborate with others.
 🔍 Check out my repositories and feel free to reach out!
 😄 I'm always up for new opportunities and challenges.
